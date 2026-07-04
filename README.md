@@ -21,8 +21,3 @@ This project focuses on the **design phase** of software engineering: analyzing 
 
 ## Note
 This repository focuses on **system design and modeling**, not code implementation. It demonstrates software architecture and analysis skills.
-
-## Roadmap / Ideas for improvement
-- [ ] Implement the actual banking application based on this design
-- [ ] Add a summary table explaining each diagram's purpose
-- [ ] Embed diagram images directly in this README
