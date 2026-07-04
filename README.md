@@ -13,7 +13,7 @@ This project focuses on the **design phase** of software engineering: analyzing 
 - Use Case Diagram
 - Component Diagram
 - Data Flow Diagram (DFD)
-- Full project plan and documentation (`bank app.pdf` / `.docx`)
+- Full project plan and documentation (`bank app.pdf`)
 
 ## Tech Stack / Methodology
 - UML Modeling
@@ -26,6 +26,3 @@ This repository focuses on **system design and modeling**, not code implementati
 - [ ] Implement the actual banking application based on this design
 - [ ] Add a summary table explaining each diagram's purpose
 - [ ] Embed diagram images directly in this README
-
----
-*This is a university project, further refined for demonstration purposes.*
