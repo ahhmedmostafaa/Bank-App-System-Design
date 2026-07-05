@@ -5,15 +5,36 @@ A complete system analysis and design case study for a banking application, cove
 ## Overview
 This project focuses on the **design phase** of software engineering: analyzing requirements and modeling a banking system using standard UML diagrams before implementation.
 
-## Contents
-- Class Diagram
-- Object Diagram
-- Sequence Diagram
-- State Diagram
-- Use Case Diagram
-- Component Diagram
-- Data Flow Diagram (DFD)
-- Full project plan and documentation (`bank app.pdf`)
+## Diagrams
+
+**Class Diagram**
+![Class Diagram](diagrams/class%20diagram.png)
+
+**Use Case Diagram**
+![Use Case Diagram](diagrams/use%20case%20diagram.png)
+
+**Object Diagram**
+![Object Diagram](diagrams/object%20diagram.png)
+
+**Component Diagram**
+![Component Diagram](diagrams/component%20diagram1.png)
+
+**Data Flow Diagram (DFD)**
+![DFD Diagram](diagrams/dfd%20diagram.png)
+
+**State Diagram**
+![State Diagram](diagrams/state%20diagram.png)
+
+**Sequence Diagram**
+![Sequence Diagram](diagrams/sequence%20diagram1.png)
+
+**Project Plan**
+![Project Plan 1](diagrams/Project%20Plan%201.png)
+![Project Plan 2](diagrams/Project%20Plan%202.png)
+
+## Files
+- `bank app.pdf` — full design documentation
+- `diagrams/` — all UML diagrams and project plan images
 
 ## Tech Stack / Methodology
 - UML Modeling
