@@ -8,29 +8,29 @@ This project focuses on the **design phase** of software engineering: analyzing 
 ## Diagrams
 
 **Class Diagram**
-![Class Diagram](diagrams/class%20diagram.png)
+<img src="diagrams/class%20diagram.png" width="700"/>
 
 **Use Case Diagram**
-![Use Case Diagram](diagrams/use%20case%20diagram.png)
+<img src="diagrams/use%20case%20diagram.png" width="700"/>
 
 **Object Diagram**
-![Object Diagram](diagrams/object%20diagram.png)
+<img src="diagrams/object%20diagram.png" width="700"/>
 
 **Component Diagram**
-![Component Diagram](diagrams/component%20diagram1.png)
+<img src="diagrams/component%20diagram1.png" width="700"/>
 
 **Data Flow Diagram (DFD)**
-![DFD Diagram](diagrams/dfd%20diagram.png)
+<img src="diagrams/dfd%20diagram.png" width="700"/>
 
 **State Diagram**
-![State Diagram](diagrams/state%20diagram.png)
+<img src="diagrams/state%20diagram.png" width="500"/>
 
 **Sequence Diagram**
-![Sequence Diagram](diagrams/sequence%20diagram1.png)
+<img src="diagrams/sequence%20diagram1.png" width="500"/>
 
 **Project Plan**
-![Project Plan 1](diagrams/Project%20Plan%201.png)
-![Project Plan 2](diagrams/Project%20Plan%202.png)
+<img src="diagrams/Project%20Plan%201.png" width="700"/>
+<img src="diagrams/Project%20Plan%202.png" width="700"/>
 
 ## Files
 - `bank app.pdf` — full design documentation
