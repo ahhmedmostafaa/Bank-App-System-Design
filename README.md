@@ -7,30 +7,30 @@ This project focuses on the **design phase** of software engineering: analyzing 
 
 ## Diagrams
 
-**Class Diagram**
-<img src="diagrams/class%20diagram.png" width="700"/>
+<p align="center"><b>Class Diagram</b></p>
+<p align="center"><img src="diagrams/class%20diagram.png" width="600"/></p>
 
-**Use Case Diagram**
-<img src="diagrams/use%20case%20diagram.png" width="700"/>
+<p align="center"><b>Use Case Diagram</b></p>
+<p align="center"><img src="diagrams/use%20case%20diagram.png" width="600"/></p>
 
-**Object Diagram**
-<img src="diagrams/object%20diagram.png" width="700"/>
+<p align="center"><b>Object Diagram</b></p>
+<p align="center"><img src="diagrams/object%20diagram.png" width="600"/></p>
 
-**Component Diagram**
-<img src="diagrams/component%20diagram1.png" width="700"/>
+<p align="center"><b>Component Diagram</b></p>
+<p align="center"><img src="diagrams/component%20diagram1.png" width="600"/></p>
 
-**Data Flow Diagram (DFD)**
-<img src="diagrams/dfd%20diagram.png" width="700"/>
+<p align="center"><b>Data Flow Diagram (DFD)</b></p>
+<p align="center"><img src="diagrams/dfd%20diagram.png" width="600"/></p>
 
-**State Diagram**
-<img src="diagrams/state%20diagram.png" width="500"/>
+<p align="center"><b>State Diagram</b></p>
+<p align="center"><img src="diagrams/state%20diagram.png" width="600"/></p>
 
-**Sequence Diagram**
-<img src="diagrams/sequence%20diagram1.png" width="500"/>
+<p align="center"><b>Sequence Diagram</b></p>
+<p align="center"><img src="diagrams/sequence%20diagram1.png" width="600"/></p>
 
-**Project Plan**
-<img src="diagrams/Project%20Plan%201.png" width="700"/>
-<img src="diagrams/Project%20Plan%202.png" width="700"/>
+<p align="center"><b>Project Plan</b></p>
+<p align="center"><img src="diagrams/Project%20Plan%201.png" width="600"/></p>
+<p align="center"><img src="diagrams/Project%20Plan%202.png" width="600"/></p>
 
 ## Files
 - `bank app.pdf` — full design documentation
