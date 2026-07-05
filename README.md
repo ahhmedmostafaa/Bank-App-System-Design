@@ -10,37 +10,37 @@ This project focuses on the **design phase** of software engineering: analyzing 
 <p align="center"><b>Class Diagram</b></p>
 <p align="center"><img src="diagrams/class%20diagram.png" width="600"/></p>
 
-<p align="center"><hr width="50%"></p>
+<p align="center">──────────────────────</p>
 
 <p align="center"><b>Use Case Diagram</b></p>
 <p align="center"><img src="diagrams/use%20case%20diagram.png" width="600"/></p>
 
-<p align="center"><hr width="50%"></p>
+<p align="center">──────────────────────</p>
 
 <p align="center"><b>Object Diagram</b></p>
 <p align="center"><img src="diagrams/object%20diagram.png" width="600"/></p>
 
-<p align="center"><hr width="50%"></p>
+<p align="center">──────────────────────</p>
 
 <p align="center"><b>Component Diagram</b></p>
 <p align="center"><img src="diagrams/component%20diagram1.png" width="600"/></p>
 
-<p align="center"><hr width="50%"></p>
+<p align="center">──────────────────────</p>
 
 <p align="center"><b>Data Flow Diagram (DFD)</b></p>
 <p align="center"><img src="diagrams/dfd%20diagram.png" width="600"/></p>
 
-<p align="center"><hr width="50%"></p>
+<p align="center">──────────────────────</p>
 
 <p align="center"><b>State Diagram</b></p>
 <p align="center"><img src="diagrams/state%20diagram.png" width="600"/></p>
 
-<p align="center"><hr width="50%"></p>
+<p align="center">──────────────────────</p>
 
 <p align="center"><b>Sequence Diagram</b></p>
 <p align="center"><img src="diagrams/sequence%20diagram1.png" width="600"/></p>
 
-<p align="center"><hr width="50%"></p>
+<p align="center">──────────────────────</p>
 
 <p align="center"><b>Project Plan</b></p>
 <p align="center"><img src="diagrams/Project%20Plan%201.png" width="600"/></p>
